@@ -20,8 +20,8 @@
     "react": "^16.5.0",
     "react-dom": "^16.5.0",
     "webpack": "^4.42.0",
-    "webpack-cli": "^3.1.0",
-    "webpack-dev-server": "^3.10.3"
+    "webpack-cli": "^3.3.11",
+    "webpack-dev-server": "^3.11.0"
   },
   "dependencies": {
     "react-redux": "^5.0.7",
